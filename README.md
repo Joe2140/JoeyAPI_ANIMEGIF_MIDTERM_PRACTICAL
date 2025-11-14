@@ -12,15 +12,13 @@ See popular categories
 
 Track your search history
 
-Save your favorite content
-
 Main Features
 For Everyone
 Browse trending anime categories
 
 View anime pictures and GIFs
 
-Responsive design (works on phone and computer)
+Responsive design
 
 For Registered Users
 Create an account with Gmail
